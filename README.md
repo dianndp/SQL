@@ -1,2 +1,3 @@
-# SQL
-Film Inventory SQL Project
+# Film Inventory SQL Project
+Rockbuster Stealth Data Analysis Project
+
