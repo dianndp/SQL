@@ -1,6 +1,11 @@
 # Rockbuster Stealth Data Analysis Project
 
-## Objective
+## Project Deliverables
++ Data Dictionary that includes an ERD and a table of contents of Tables in the database.
++ SQL queries used to answer the Business Questions.
++ Final PowerPoint presentation.
+
+## Analysis Objective
 Answer business questions to help the movie rental company 'Rockbuster Stealth LLC'
 launch an online video rental service in order to stay competitive.
 
@@ -11,7 +16,6 @@ launch an online video rental service in order to stay competitive.
 * Which countries are Rockbuster customers based in?
 * Where are customers with a high lifetime value based?
 * Do sales figures vary between geographic regions?
-
 
 ## Data
 [Rockbuster data set](https://github.com/dianndp/film-inventory-sql-project/raw/main/dvdrental.zip)
