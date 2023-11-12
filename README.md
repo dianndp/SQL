@@ -1,5 +1,5 @@
 # Rockbuster Stealth Data Analysis Project
-Data Analyst: Diana Postica
+Analyzed by: Diana Postica
 ## 
 
 ## Project Deliverables
