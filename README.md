@@ -1,4 +1,6 @@
 # Rockbuster Stealth Data Analysis Project
+Data Analyst: Diana Postica
+## 
 
 ## Project Deliverables
 + Data Dictionary that includes an ERD and a table of contents of Tables in the database.
