@@ -20,7 +20,7 @@ launch an online video rental service in order to stay competitive.
 * Do sales figures vary between geographic regions?
 
 ## Data
-[Rockbuster data set](https://github.com/dianndp/film-inventory-sql-project/raw/main/dvdrental.zip)
+[Rockbuster data set](https://github.com/dianndp/film-inventory-sql-project/raw/main/Presentation.pptx)
 
 ## Tables
 
