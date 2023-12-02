@@ -20,7 +20,7 @@ launch an online video rental service in order to stay competitive.
 * Do sales figures vary between geographic regions?
 
 ## Data
-[Rockbuster data set](https://github.com/dianndp/film-inventory-sql-project/raw/main/Presentation.pptx)
+[Rockbuster data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
 ## Tables
 
@@ -45,7 +45,7 @@ launch an online video rental service in order to stay competitive.
    - Store
 
 ## PowerPoint Presentation
-Check the final output of the analysis where I include the goal of the project, share visualizations along with insights and final recommendations [here](https://github.com/dianndp/film-inventory-sql-project/raw/main/Project%20Presentation.pptx).
+Check the final output of the analysis where I include the goal of the project, share visualizations along with insights and final recommendations [here](https://github.com/dianndp/film-inventory-sql-project/raw/main/Presentation.pptx).
        
 ## Tableau Visualizations
 + [Rockbuster Costumer Distribution Map](https://public.tableau.com/app/profile/diana.postica/viz/Task3_10RockbusterCostumerDistributionMap/Sheet1?publish=yes)
